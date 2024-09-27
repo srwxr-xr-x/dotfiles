@@ -1,7 +1,7 @@
 [Appearance]
 AntiAliasFonts=true
 BoldIntense=true
-ColorScheme=LillianColor
+ColorScheme=New Color Scheme
 Font=DejaVu Sans Mono,10,-1,5,75,0,0,0,0,0,Bold
 UseFontLineChararacters=false
 
